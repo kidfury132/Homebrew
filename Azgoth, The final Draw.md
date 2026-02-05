@@ -5,24 +5,24 @@
 
 Azgoth is a Pit Fiend in service to Mammon, Lord of Minauros, the Third Layer of the Nine Hells. He is responsible for enforcing punishment upon those who draw from the [[Deck Of Fiends]]. While this duty represents only one of his responsibilities, it is one of his most visible and personally complicated assignments.
 
-Azgoth is a fallen angel who believes divine justice and infernal justice are two sides of the same cosmic principle. He views punishment not as cruelty, but as the inevitable consequence of unchecked desire. Though bound by infernal law, fragments of his celestial past allow him to show rare sympathy toward certain mortals.
+Azgoth is a fallen angel who believes divine justice and infernal justice are two sides of the same cosmic principle. He views punishment not as cruelty but as the inevitable consequence of unchecked desire. Though bound by infernal law, fragments of his celestial past allow him to show rare sympathy toward certain mortals.
 
 ---
 # Personality
 
-Azgoth is methodical, composed, and intensely professional. He treats enforcement as both ritual and administrative obligation. His speech is formal and contract-driven, though he occasionally displays dry humor or reluctant empathy.
+Azgoth is methodical, composed, and intensely professional. He treats enforcement as both a ritual and administrative obligation. His speech is formal and contract-driven, though he occasionally displays dry humour or reluctant empathy.
 ## Underling Hierarchy
 
 ### Chosen Underlings
 Souls personally claimed by Azgoth.
 
-- Typically mortals who committed one catastrophic act of greed
+- Typically, mortals who committed one catastrophic act of greed
 - Often treated with unexpected fairness
 - May receive limited trust or responsibility
 ### Assigned Underlings
 Souls assigned by infernal hierarchy.
 
-- Viewed as workforce
+- Viewed as a workforce
 - Managed efficiently
 - Minimal personal attachment
 
@@ -31,9 +31,9 @@ Azgoth maintains a particular fondness for a group of mortal gamblers who repeat
 ---
 # Appearance
 
-Azgoth wears elaborate infernal armor modeled after the [[Deck Of Fiends]].
+Azgoth wears elaborate infernal armour modelled after the [[Deck Of Fiends]].
 
-The armor features:
+The armour features:
 
 - Fool and Star motifs
 - Shifting contract sigils
@@ -95,7 +95,7 @@ Azgoth is compelled to appear near the drawer whenever the deck is used.
 
 After enforcement:
 
-- He may remain temporarily
+- He may remain temporary
 - Extended absence risks disciplinary review
 
 Azgoth often imposes personal time limits to avoid administrative consequences.
@@ -109,7 +109,7 @@ He gains authority through:
 
 - Punishment of greed-corrupted mortals
 - Soul acquisition linked to gambling and avarice
-- Expansion of underling workforce
+- Expansion of an underling workforce
 
 Failure risks reassignment or disciplinary action.
 
@@ -121,14 +121,14 @@ Azgoth derives strength from **Gilded Regret**, emotional residue produced when 
 This fuels:
 
 - His authority within Minauros
-- Maintenance of infernal armor
+- Maintenance of infernal armour
 - Empowerment of underlings
 - Political capital within Mammon’s hierarchy
 
 ---
 # Relationship With The Deck Of Fiends
 
-The deck originally contained numerous reward cards. Infernal restructuring condensed the artifact into its Fool/Star system.
+The deck originally contained 12 reward cards. Infernal restructuring condensed the artefact into its Fool/Star system.
 
 Azgoth was later assigned enforcement duty and has remained bound to the deck ever since.
 
@@ -148,7 +148,7 @@ He may:
 - Offer limited assistance after enforcement
 - Form professional or personal relationships
 
-Azgoth will not directly fight alongside mortals except in self-defense or contract enforcement.
+Azgoth will not directly fight alongside mortals except in self-defence or contract enforcement.
 
 ---
 # Jackpot Ceremony
@@ -246,7 +246,7 @@ If Azgoth dies outside the Nine Hells, he reforms instantly in the Nine Hells wi
 ### Fear Aura
 20-foot aura.
 
-- DC 21 Wisdom Save at start of turn
+- DC 21 Wisdom Save at the start of the turn
 - Failure: Frightened until next turn
 - Success: Immune for 24 hours
 
@@ -293,12 +293,12 @@ While poisoned:
 + 21 (6d6) fire damage
 
 ---
-### Hellfire Spellcasting (Recharge 4-6)
-Casts Fireball (5th level) twice.
+### Hellfire Spellcasting (Recharge 4–6)
+Casts Fireball (fifth level) twice.
 
 May replace one Fireball with:
 
-- Hold Monster (7th level)
+- Hold Monster (seventh level)
 - Wall of Fire
 
 ---
