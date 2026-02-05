@@ -8,13 +8,12 @@
 ## Drawing From the Deck
 When a creature draws a card (**1 Action**), [[Azgoth, The final Draw]] appears and kicks the creature that drew the card in the groin.
 
-After the punishment, roll a **DC 9 flat d20** to determine whether the card returns to the deck.
+After the punishment, roll a **DC 9 flat d20** to determine whether the card returns to the deck, the card returns when the roll fails. When the final card is drawn, the deck cycles.
 
 - On a **success**, the card returns to the deck.
-- On a **20**, roll again:
-  - If the second roll is also a **20**, the card glows golden, returns to the deck, and grants a replenishment reward from the table below.
+- On a **20**, the card glows golden, returns to the deck, and grants a replenishment reward from the table below.
 
-All replenishment powers granted by the deck are **temporary** and are lost if unused before the creature finishes a **Long Rest**.
+All replenishment powers granted by the deck are **temporary** and are lost if used and do not stack.
 
 ---
 ## Replenishment Rewards
